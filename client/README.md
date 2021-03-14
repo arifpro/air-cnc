@@ -4,8 +4,7 @@ air-cnc client
 
 ## Install Dev Dependencies
 
-yarn add -D prettier
-yarn add -D babel-eslint
+yarn add -D prettier babel-eslint eslint-config-react-app
 npx install-peerdeps --dev eslint-config-airbnb
 yarn add -D eslint-config-prettier eslint-plugin-prettier
 
